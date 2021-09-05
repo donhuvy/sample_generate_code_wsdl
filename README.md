@@ -1,0 +1,1 @@
+# sample_generate_code_wsdl
